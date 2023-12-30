@@ -1,2 +1,4 @@
-public class Pet {
+public interface Pet {
+
+      void Sound();
 }
