@@ -10,7 +10,10 @@ public class Cat implements Pet{
     {
         System.out.println("Cat is eating");
     }
-
+    public void run()
+    {
+        System.out.println("Cat is running");
+    }
        public void sleeping()
     {
         System.out.println("Cat is not sleeping");
