@@ -12,7 +12,7 @@ public class Cat implements Pet{
     }
     public void run()
     {
-        System.out.println("Cat is running");
+        System.out.println("Cat is not running");
     }
        public void sleeping()
     {
