@@ -8,7 +8,12 @@ public class Cat implements Pet{
 
     public void eat()
     {
-        System.out.println("Cat is eating);
+        System.out.println("Cat is eating");
+    }
+
+       public void sleeping()
+    {
+        System.out.println("Cat is sleeping");
     }
     
     public void makeAnAction()
