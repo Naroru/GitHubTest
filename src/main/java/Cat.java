@@ -13,7 +13,7 @@ public class Cat implements Pet{
 
        public void sleeping()
     {
-        System.out.println("Cat is sleeping");
+        System.out.println("Cat is not sleeping");
     }
     
     public void makeAnAction()
