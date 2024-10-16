@@ -7,4 +7,8 @@ public class Dog implements Pet{
     public void sleep() {
         System.out.println("sleep2");
     }
+
+    public void sleep3() {
+        System.out.println("sleep23");
+    }
 }
