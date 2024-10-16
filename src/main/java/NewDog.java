@@ -3,4 +3,9 @@ public class NewDog {
     {
         System.out.println("Hello World");
     }
+
+    public void say2()
+    {
+        System.out.println("Hello World");
+    }
 }
