@@ -8,6 +8,10 @@ public class Dog implements Pet{
         System.out.println("DONT SLEEP");
     }
 
+    public void newSound() {
+        System.out.println("Gav2-gav");
+    }
+
     public void sleep3() {
         System.out.println("sleep23");
     }
