@@ -9,7 +9,7 @@ public class Dog implements Pet{
     }
 
     public void newSound() {
-        System.out.println("Gav2");
+        System.out.println("Gav2-gav");
     }
 
     public void sleep3() {
