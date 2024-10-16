@@ -11,4 +11,8 @@ public class Dog implements Pet{
     public void sleep3() {
         System.out.println("sleep23");
     }
+
+    public void sleep4() {
+        System.out.println("sleep4");
+    }
 }
